@@ -6,7 +6,12 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background:rgb(67, 72, 147);
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;

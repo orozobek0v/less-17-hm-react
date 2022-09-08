@@ -1,0 +1,16 @@
+.modal {
+  z-index: 5000;
+  opacity: 0.5;
+  width: 100vw;
+  height: 100vh;
+  background: rgb(0, 0, 0, 0.4);
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.5s;
+  pointer-events: none;
+  /* background:rgba(0, 0, 0, 0.7px); */
+}
