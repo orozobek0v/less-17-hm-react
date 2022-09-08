@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/less-17-hm-react/static/css/main.a8591a75.css",
+    "main.js": "/less-17-hm-react/static/js/main.dda2fe08.js",
+    "index.html": "/less-17-hm-react/index.html",
+    "main.a8591a75.css.map": "/less-17-hm-react/static/css/main.a8591a75.css.map",
+    "main.dda2fe08.js.map": "/less-17-hm-react/static/js/main.dda2fe08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8591a75.css",
+    "static/js/main.dda2fe08.js"
+  ]
+}
